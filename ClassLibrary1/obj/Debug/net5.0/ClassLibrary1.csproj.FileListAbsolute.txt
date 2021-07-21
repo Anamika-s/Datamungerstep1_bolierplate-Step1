@@ -1,0 +1,12 @@
+E:\datamungerstep1_bolierplate\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+E:\datamungerstep1_bolierplate\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+E:\datamungerstep1_bolierplate\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+E:\datamungerstep1_bolierplate\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+E:\datamungerstep1_bolierplate\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
